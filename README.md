@@ -73,4 +73,5 @@ else:
     print("再度")
 ```
 
-# これで完成よ
+**お疲れ様でした**
+`Created by Yunamaki(1G)`
