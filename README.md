@@ -56,10 +56,10 @@ for i in range(50):
 A = float(input())
 ```
 
-あとはif~elif~else~で条件分岐を書けば良い。
->if　もしも〜なら
->elif ではないが〜なら
->else 〜ではないなら
+あとはif〜elif〜else〜で条件分岐を書けば良い。
+>if　もしも〜なら  
+>elif ではないが〜なら  
+>else 〜ではないなら  
 
 ```python:Kadai3-2
 #もしも37.0以上なら
